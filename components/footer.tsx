@@ -16,7 +16,7 @@ export default function Footer() {
             </p>
           </div>
 
-          {/* Shop */}
+          {/* Shop ,*/}
           <div>
             <h4 className="text-sm font-light tracking-wide mb-4 muted-on-dark text-white">Shop</h4>
             <nav className="space-y-3">
