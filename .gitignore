@@ -1,3 +1,15 @@
 .next/
 node_modules/
 .pnpm-store/
+# Node modules
+node_modules
+backend/node_modules
+
+# Cache
+backend/.cache
+
+# Environment variables
+backend/.env
+
+# Logs
+*.log
